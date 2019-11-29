@@ -4,7 +4,7 @@ export interface Theme {
 
 const themeSettings = {
     colors: {
-        primary: 'royalblue',
+        primary: 'red',
         secondary: 'teal',
         text: 'black',
     },

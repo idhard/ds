@@ -1,7 +1,7 @@
 import theme, { Theme } from './themes';
 
 export interface BaseProps {
-    theme: Theme;
+    theme?: Theme;
 }
 
 const props = {
